@@ -1,0 +1,20 @@
+.btn{
+    height: 48px;
+    width: 218px;
+    border-radius: 20px;
+    background-color: #2A3993;
+    border: 1px #2A3993;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    transition: 0.5s;
+    font-family: 'Russo One', sans-serif;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #E5EBFF;
+    border: 1px solid #2A3993;
+    color: #2A3993;
+    font-weight: bold;
+    transition-delay: 0.5s;
+}
