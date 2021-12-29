@@ -1,0 +1,42 @@
+.block{
+    background: url('../../img/background/pattern.png') repeat-y;
+    background-color: #2A3993;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.wrap__form{
+    
+    height: 530px;
+    width: 502px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8px;
+}
+.wrap__registration{
+    height: 556px;
+    width: 502px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8px;
+}
+.wrap__recovery{
+    height: 540px;
+    width: 502px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8px;
+}

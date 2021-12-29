@@ -16,5 +16,5 @@
     border: 1px solid #2A3993;
     color: #2A3993;
     font-weight: bold;
-    transition-delay: 0.5s;
+    transition: 0.5s;
 }

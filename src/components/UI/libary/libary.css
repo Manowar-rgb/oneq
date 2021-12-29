@@ -1,0 +1,35 @@
+.libary{
+    display: flex;
+    border: 1px solid #E6E8F6;
+    width: 377px;
+    height: 122px;
+    box-shadow: 0px 4px 15px #CBCFEB;
+    border-radius: 30px;
+    flex-direction: column;
+}
+.libary:hover{
+    box-shadow: 0px 8px 30px #CBCFEB;
+    transition: 0.5s;
+}
+.libary__title{
+    color: #2A3993;
+    font-weight: bold;
+    font-size: 30px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 27px;
+    text-transform: uppercase;
+}
+.libary__body{
+    font-size: 15px;
+    color: #767676;
+    margin-left: 27px;
+    margin-top: 12px;
+}
+.libary_h3{
+    padding-bottom: 5px;
+}
+h3{
+    font-weight: normal;
+   
+}

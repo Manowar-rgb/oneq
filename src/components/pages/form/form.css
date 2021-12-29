@@ -7,6 +7,11 @@
     font-family: 'Montserrat', sans-serif;
     padding-top: 35px;
 }
+.form__title{
+        font-family: 'Russo One', sans-serif;
+        color: #2A3993;
+        padding-bottom: 28px;
+}
 .form__email{
     font-size: 14px;
     display: flex;
@@ -41,4 +46,5 @@
 .form__reg{
     margin-top: 15px;
     color: #2A3993;
+    cursor: pointer;
 }

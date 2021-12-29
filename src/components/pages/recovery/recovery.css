@@ -1,0 +1,9 @@
+.recovery__policy
+{
+    color:#A5A5A5;
+    font-size: 10px;
+    margin-bottom: 30px;
+}
+.recovery__policy span{
+    text-decoration: underline;
+}
